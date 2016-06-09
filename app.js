@@ -50,3 +50,10 @@ Dismas.giveLife(Kiilu);
 console.log("Dismas: " + Dismas.life);
 console.log("Kiilu: " + Kiilu.life);
 
+
+
+User.prototype.uppercut = function uppercut(targetPlayer) {
+    targetPlayer.life -= 3;
+    console.log(this.name + " just uppercutted " + targetPlayer.name);
+    
+};
