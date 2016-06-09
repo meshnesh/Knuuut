@@ -57,3 +57,8 @@ User.prototype.uppercut = function uppercut(targetPlayer) {
     console.log(this.name + " just uppercutted " + targetPlayer.name);
     
 };
+
+
+Kiilu.uppercut(Dismas);
+console.log("Dismas: " + Dismas.life);
+console.log("Kiilu: " + Kiilu.life);
