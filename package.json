@@ -1,0 +1,19 @@
+{
+  "name": "nodesever",
+  "version": "1.0.0",
+  "description": "a nodejs code that runs server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meshnesh/Knuuut.git"
+  },
+  "author": "Antony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meshnesh/Knuuut/issues"
+  },
+  "homepage": "https://github.com/meshnesh/Knuuut"
+}
